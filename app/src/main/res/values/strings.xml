@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskMinder</string>
+    <string name="tasks">Tasks</string>
+    <string name="taskminder">TaskMinder</string>
+    <string name="save">Save</string>
+    <string name="tidak_ada_tugas_selamat_bersantai">Tidak ada tugas, selamat bersantai!</string>
+</resources>
